@@ -4,8 +4,11 @@
 电话： 18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 微信：18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：lurruery@gmail.com  
 政治面貌： 中共党员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;婚姻状况： 已婚 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;工作年限：7+  
 
-## 教育背景
-2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
+## 求职意向
+期望工作性质: 全职  
+期望从事职业: 高级前端工程师(web)   
+期望工作地址: 武汉  
+期望工作单位: 技术驱动型公司,成熟互联网公司   
 
 ## 个人技能
 - 7年+ web前端开发设计经验
@@ -19,5 +22,8 @@
 
 ## 工作经历
 2012.12 － 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小米科技有限责任公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师（实习）   
-2013.07 － 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端开发工程师  
-2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端开发工程师
+2013.07 － 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师  
+2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师
+
+## 教育背景
+2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
