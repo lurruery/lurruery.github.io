@@ -2,6 +2,7 @@
 姓名： 张梅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;性别：女&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出生年月：1988.12    
 电话： 18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 微信：18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：lurruery@gmail.com  
 政治面貌： 中共党员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;婚姻状况： 已婚 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;工作年限：7+  
+github: https://github.com/lurruery
    
 ## 个人技能
 - 7年+ web前端开发设计经验
@@ -30,12 +31,12 @@
 我的职责:1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
 2.部分明星商品产品站,如:小米手机系列,小米电视系列,小米盒子,红米Note3,蓝牙音箱,空气净化器等     
 3.企业购买通道,HR招聘系统, 合约机子站点前端开发    
-4.内部系统维护,包括小米统计,入职系统,EDM等
+4.内部系统维护,包括小米统计,入职系统,EDM等  
 5.负责部门基础组件的编写和文档建设
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端  
-技术栈： 原生js,  webpack  
+技术栈： 原生js,   webpack  
 我的职责：重构整个前端代码  
 
 ## 教育背景
