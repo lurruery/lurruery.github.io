@@ -27,7 +27,7 @@ github: https://github.com/lurruery
 
 ##### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： 小米电商部门官方网站，负责售卖小米自家产品及生态链产品  
-技术栈： Vue，vVuex，Vue-router，NPM，Node， Gulp， Webpack，jshint，jscs，iconfont，webfont，jade，Sass， Less，Stylus等     
+技术栈： Vue，Vuex，Vue-router，NPM，Node， Gulp， Webpack，jshint，jscs，iconfont，webfont，jade，Sass， Less，Stylus等     
 我的职责:1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
 2.部分明星商品产品站,如:小米手机系列,小米电视系列,小米盒子,红米Note3,蓝牙音箱,空气净化器等     
 3.企业购买通道,HR招聘系统, 合约机子站点前端开发    
