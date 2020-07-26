@@ -36,7 +36,7 @@ github: https://github.com/lurruery
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端  
-技术栈： 原生js,  Webpack， ES6 
+技术栈： 原生js,  Webpack， ES6   
 我的职责：重构整个前端代码  
 
 ## 教育背景
