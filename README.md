@@ -35,7 +35,7 @@ github: https://github.com/lurruery
 5.负责部门基础组件的编写和文档建设
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
-业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端  
+业务介绍： web端（pc, m和活动）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
 主要技术： 原生js,  Webpack， ES6   
 我的职责： 个人独立项目，2次重构整个前端代码，第一次用原生js替换掉原有的jQuery，保证不依赖于第三方框架，第二次用IntersectionObserver重写整个曝光逻辑，优化原有的代码
 ## 教育背景
