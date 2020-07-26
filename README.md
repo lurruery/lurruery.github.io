@@ -27,12 +27,17 @@
 
 ### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： 小米电商部门官方网站，负责售卖小米自家产品及生态链产品  
-技术栈： vue, vuex, vue-router, npm, node,  Gulp, webpack,j shint, jscs,iconfont, webfont, jade, Sass, Less, Stylus等     
+技术栈： vue, vuex, vue-router, npm, node,  Gulp, webpack,jshint, jscs, iconfont, webfont, jade, Sass, Less, Stylus等     
 我的职责:1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
 2.部分明星商品产品站,如:小米手机系列,小米电视系列,小米盒子,红米Note3,蓝牙音箱,空气净化器等     
 3.企业购买通道,HR招聘系统, 合约机子站点前端开发    
-4.内部系统维护,包括小米统计,入职系统,EDM等   
+4.内部系统维护,包括小米统计,入职系统,EDM等
+5.负责部门基础组件的编写和文档建设
 
+### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
+业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端
+技术栈： 原生js,  webpack
+我的职责：重构整个前端代码
 
 ## 教育背景
 2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
