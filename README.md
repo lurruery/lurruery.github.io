@@ -20,12 +20,12 @@
 2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师
 
 ## 项目经历
-### 2012.12 － 2013-07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc端  
+##### 2012.12 － 2013-07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc端  
 业务介绍： 因为产能问题无法满足巨大用户的需求，用户预约后再参与抢购，只有抢购成功的用户才能进行购买  
 技术栈： 原生js，css  
 我的职责: 负责编写和维护抢购代码，做好前端性能优化，提供静态资源给运维进行预加载，优化网页加载速度，尽量保证抢购顺利  
 
-### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
+##### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： 小米电商部门官方网站，负责售卖小米自家产品及生态链产品  
 技术栈： vue, vuex, vue-router, npm, node,  Gulp, webpack,jshint, jscs, iconfont, webfont, jade, Sass, Less, Stylus等     
 我的职责:1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
@@ -34,7 +34,7 @@
 4.内部系统维护,包括小米统计,入职系统,EDM等
 5.负责部门基础组件的编写和文档建设
 
-### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
+##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
 业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端  
 技术栈： 原生js,  webpack  
 我的职责：重构整个前端代码  
