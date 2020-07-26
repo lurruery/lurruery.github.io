@@ -35,9 +35,9 @@
 5.负责部门基础组件的编写和文档建设
 
 ### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc和m
-业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端
-技术栈： 原生js,  webpack
-我的职责：重构整个前端代码
+业务介绍： web端（pc, m和活动）公用的一套前端前端埋点统计代码，负责收集客户端数据上报给后端  
+技术栈： 原生js,  webpack  
+我的职责：重构整个前端代码  
 
 ## 教育背景
 2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
