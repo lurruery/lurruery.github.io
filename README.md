@@ -9,7 +9,7 @@ github: https://github.com/lurruery
 - 具备独立开发高品质的PC、H5、微信小程序、SPA单页面应用能力
 - 熟练使用ESLint、TSLint规范代码编写
 - 熟悉JavaScript，掌握ES6基本语法
-- 熟练使用Vue3.0开发项目，了解其原理，对Vuex、Vue-Router也有比较深入的认识
+- 熟练使用Vue2.0、Vue3.0开发项目，了解其原理，对Vuex、Vue-Router也有比较深入的认识
 - 熟悉Sass、Less、Stylus等css预处理器
 - 熟悉前端工程化，了解Webpack的开发
 - 熟悉基本HTTP网络通信技术
@@ -37,7 +37,7 @@ github: https://github.com/lurruery
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
 主要技术： 原生js、 Webpack、ES6   
-我的职责： 个人独立完成并维护的项目，封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据，分解了3个部门的研发压力。
+我的职责： 个人独立完成并维护的项目，封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据，分解了3个部门的数据研发压力。
 
 ## 教育背景
 2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
