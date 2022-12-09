@@ -37,7 +37,7 @@ github: https://github.com/lurruery
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
 主要技术： 原生js、 Webpack、ES6   
-我的职责： 个人独立完成并维护的项目，封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据，分解了3个部门的数据研发压力。
+我的职责： 个人独立完成并维护的项目，封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据，减轻了3个部门的数据研发压力。
 
 ## 教育背景
 2009.09 - 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中南民族大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科  
