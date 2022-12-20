@@ -33,6 +33,7 @@ github: https://github.com/lurruery
 3.企业购买通道, HR招聘系统, 合约机等子站点前端开发    
 4.内部系统维护, 包括小米统计、入职系统、EDM，乾坤子应用等  
 5.负责部门基础组件的编写和文档建设
+6.培养新人、促使新人更快的融入团队
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
