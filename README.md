@@ -15,7 +15,8 @@ github: https://github.com/lurruery
 - 熟悉基本HTTP网络通信技术
 
 ## 工作经历
-2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师
+2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师  
+
 2013.07 － 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师  
 2012.12 － 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小米科技有限责任公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师（实习）   
  
@@ -33,7 +34,7 @@ github: https://github.com/lurruery
 2.部分明星商品产品站,如:小米手机系列,小米电视系列,小米盒子,红米Note3,蓝牙音箱,空气净化器等     
 3.企业购买通道, HR招聘系统, 合约机等子站点前端开发    
 4.内部系统维护, 包括小米统计、入职系统、EDM，乾坤子应用等  
-5.负责部门基础组件的编写和文档建设
+5.负责部门基础组件的编写和文档建设  
 6.培养新人、促使新人更快的融入团队
 
 
