@@ -21,6 +21,12 @@ github: https://github.com/lurruery
  
 ## 项目经历
 
+##### 2022.10 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+业务介绍：   
+主要技术： Vue3、ES6、TS
+我的职责： 负责相关业务开发
+
+
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
 主要技术： 原生js、 Webpack、ES6   
