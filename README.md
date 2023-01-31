@@ -22,9 +22,9 @@ github: https://github.com/lurruery
 ## 项目经历
 
 ##### 2022.10 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-业务介绍：   
-主要技术： Vue3、ES6、TS
-我的职责： 负责相关业务开发
+业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值 
+主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts
+我的职责： 负责线下库存管理、SKU管理等相关业务维护和开发
 
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
