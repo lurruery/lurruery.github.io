@@ -3,7 +3,8 @@
 电话：18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：lurruery@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;政治面貌：中共党员<br />
 婚姻状况：已婚已育&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 github: https://github.com/lurruery
-   
+<br />
+<br />
 ## 个人技能
 - 9年+ web前端开发设计经验
 - 具备独立开发高品质的PC、H5、微信小程序、SPA单页面应用能力
@@ -12,14 +13,15 @@ github: https://github.com/lurruery
 - 熟悉Sass、Less、Stylus等css预处理器
 - 熟悉前端工程化，了解Webpack的开发
 - 了解qiankun微前端构架
-
+<br />
+<br />
 ## 工作经历
 2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师<br />
 2013.07 － 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师<br /> 
 2012.12 － 2013.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小米科技有限责任公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师（实习）   
- 
+<br />
+<br />
 ## 项目经历
-
 #### 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.10 - 今 
 业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值<br />
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
