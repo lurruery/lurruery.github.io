@@ -24,7 +24,9 @@ github: https://github.com/lurruery
 ##### 2022.10 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值   
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts  
-我的职责： 负责线下库存管理、SKU管理等相关业务维护和开发
+我的职责： 
+1.负责线下库存管理、SKU管理、销售达成、目标上传等相关业务维护和开发
+2.维护全局组件
 
 
 ##### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -35,7 +37,8 @@ github: https://github.com/lurruery
 ##### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc、H5、m、微信小程序
 业务介绍： 小米新零售部门官方网站，负责售卖小米自家产品及生态链产品  
 主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
-我的职责：1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
+我的职责：
+1.负责小米网售后相关流程,包括小米之家,维修网点,意外服务保障,明星商品售后服务政策等    
 2.部分明星商品产品站,如:小米手机系列,小米电视系列,小米盒子,红米Note3,蓝牙音箱,空气净化器等     
 3.企业购买通道, HR招聘系统, 合约机等子站点前端开发    
 4.内部系统维护, 包括小米统计、入职系统、EDM，乾坤子应用等  
