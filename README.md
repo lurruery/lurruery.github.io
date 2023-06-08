@@ -20,19 +20,19 @@ github: https://github.com/lurruery
  
 ## 项目经历
 
-### 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.10 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师
+### 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.10 - 今 
 业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值 
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts  
 我的职责： <br />
 1.负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
 2.维护全局组件
 
-### 2019.08 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小米统计SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+### SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.08 - 今 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端  
 主要技术： 原生js、 Webpack、ES6   
 我的职责： 个人独立完成并维护的项目，封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据，减轻了3个部门的数据研发压力。
 
-### 2013.07 - 今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.mi.com 和 m.mi.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc、H5、m、微信小程序
+### 小米门户网站 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2013.07 - 今
 业务介绍： 小米新零售部门官方网站，负责售卖小米自家产品及生态链产品  
 主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
 我的职责：<br />
@@ -44,7 +44,7 @@ github: https://github.com/lurruery
 6.培养新人、促使新人更快的融入团队
 
 
-### 2012.12 － 2013-07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pc端  
+### 小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 前端实习生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012.12 － 2013-07 
 业务介绍： 因为产能问题无法满足巨大用户的需求，用户预约后再参与抢购，只有抢购成功的用户才能进行购买  
 主要技术： 原生js，css  
 我的职责： 负责编写和维护抢购代码，做好前端性能优化，提供静态资源给运维进行预加载，优化网页加载速度，尽量保证抢购顺利  
