@@ -12,6 +12,7 @@ github: https://github.com/lurruery
 - 熟练使用Vue2.0、Vue3.0开发项目，了解其原理，对Vuex、Vue-Router也有比较深入的认识
 - 熟悉Sass、Less、Stylus等css预处理器
 - 熟悉前端工程化，了解Webpack的开发
+- 了解qiankun微前端构架
 - 熟悉基本HTTP网络通信技术
 
 ## 工作经历
