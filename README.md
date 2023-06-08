@@ -29,7 +29,6 @@ github: https://github.com/lurruery
 
 #### SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.08 - 今 
 业务介绍： web端（pc、h5、微信小程序、飞书小程序）公用的一套前端埋点统计代码，负责收集客户端数据上报给后端<br />
-<br />
 主要技术： 原生js、 Webpack、ES6<br />
 ##### 内容： <br />
 1.全权负责开发SDK
