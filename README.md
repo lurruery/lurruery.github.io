@@ -13,7 +13,8 @@ github: https://github.com/lurruery
 - 熟悉Sass、Less、Stylus等css预处理器
 - 熟悉前端工程化，了解Webpack的开发
 - 了解qiankun微前端构架
-
+<br />
+<br />
 ## 工作经历
 2019.08 － 今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级web前端工程师<br />
 2013.07 － 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京小米科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web前端工程师<br /> 
