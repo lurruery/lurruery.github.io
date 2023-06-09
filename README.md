@@ -1,6 +1,6 @@
 ## 基本信息
 姓名：张梅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;性别：女&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出生年月：1988.12<br /> 
-电话：18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：lurruery@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;政治面貌：中共党员<br />
+电话：18510882792&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：lurruery@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;政治面貌：中共党员<br />
 婚姻状况：已婚已育&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 github: https://github.com/lurruery
 <br />
@@ -27,7 +27,8 @@ github: https://github.com/lurruery
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
 ##### 内容： <br />
 1.负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
-2.维护全局组件
+2.开发和维护全局组件<br />
+3.跟进质量指标输出，解决sentry异常
 <br />
 <br />
 #### SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.08 - 今 
@@ -36,9 +37,10 @@ github: https://github.com/lurruery
 ##### 内容： <br />
 1.全权负责开发SDK<br />
    &nbsp;&nbsp;&nbsp;&nbsp;a. 封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用，只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据<br />
-2.输出技术文档<br />  
+2.输出技术文档<br />
+3.对接业务方，提供接入技术支持
 ##### 业绩： <br />   
-1.减轻了多个部门的研发压力
+1.减轻了多个部门的研发压力，只需要npm install安装包即可
 <br />
 <br />
 #### 小米门户网站 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2013.07 - 今
