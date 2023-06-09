@@ -43,7 +43,6 @@ github: https://github.com/lurruery
 3、提供参数支持，开发者只需要设置参数就可以同时上报页面PV，曝光，点击等数据，同时支持自定义事件上报<br />
 4、M站与小程序，安卓，IOS分别通信，根据scmref和spmref来标识上个点击来源，同时获取来自不同端的ua，会话等传递数据<br />
 5、输出并维护相关技术文档<br />
-6、对接业务方，提供接入技术支持
 ##### 业绩： <br />   
 1.减轻了多个部门的研发压力，只需要npm install安装包，并设置参数即可完成数据统计业务<br />
 2.统一的业务后台，数据更加直观
@@ -53,11 +52,12 @@ github: https://github.com/lurruery
 业务介绍： 小米新零售部门官方网站，负责售卖小米自家产品及生态链产品<br />
 主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
 ##### 内容： <br />
-1、负责小米网多端业务开发（pc, m, 微信小程序, h5等）<br />
+1、负责小米网多端业务开发（pc, m, 微信小程序, h5等），期间多次参与改版<br />
 2、负责企业购买通道、HR招聘系统、合约机等子站点前端开发<br />
 3、负责内部系统维护, 包括小米统计、入职系统、EDM、乾坤子应用等<br />
 4、负责部门基础组件的编写和文档建设<br />
 5、培养新人、促使新人更快的融入团队
+6、跟进质量指标输出，解决sentry异常，优化用户体验
 <br />
 <br />
 #### 小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 前端实习生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012.12 － 2013-07 
