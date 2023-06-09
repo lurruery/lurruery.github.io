@@ -27,8 +27,9 @@ github: https://github.com/lurruery
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
 ##### 内容： <br />
 1、负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
-2、开发和维护全局组件<br />
-3、跟进质量指标输出，解决sentry异常，优化用户体验
+2、通过引入mkcert，使本地https能够访问，解决接口跨域和登录异常等问题<br />
+3、开发和维护全局组件<br />
+4、跟进质量指标输出，解决sentry异常，优化用户体验
 ##### 业绩： <br />   
 1.线下库存管理被评为2023年Q1优秀项目
 <br />
