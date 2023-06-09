@@ -37,7 +37,7 @@ github: https://github.com/lurruery
 ##### 内容： <br />
 1.全权负责开发SDK<br />
    &nbsp;&nbsp;&nbsp;&nbsp;a. 封装一套单独的SDK提供给多端（pc、h5、微信小程序、飞书小程序）使用<br />
-   &nbsp;&nbsp;&nbsp;&nbsp;b. 提供参数支持，开发者只需要设置参数就可以同时上报页面PV，曝光，按钮点击等数据<br />
+   &nbsp;&nbsp;&nbsp;&nbsp;b. 提供参数支持，开发者只需要设置参数就可以同时上报页面PV，曝光，点击等数据<br />
 2.输出并维护相关技术文档<br />
 3.对接业务方，提供接入技术支持
 ##### 业绩： <br />   
