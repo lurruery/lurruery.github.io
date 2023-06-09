@@ -29,6 +29,8 @@ github: https://github.com/lurruery
 1、负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
 2、开发和维护全局组件<br />
 3、跟进质量指标输出，解决sentry异常，优化用户体验
+##### 业绩： <br />   
+1.线下库存管理被评为2023年Q1优秀项目
 <br />
 <br />
 #### SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.08 - 今 
