@@ -48,7 +48,7 @@ github: https://github.com/lurruery
 业务介绍： 小米新零售部门官方网站，负责售卖小米自家产品及生态链产品<br />
 主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
 ##### 内容： <br />
-1.负责小米网多端业务开发（pc, m, 微信小程序）<br />
+1.负责小米网多端业务开发（pc, m, 微信小程序, h5等）<br />
 2.负责企业购买通道、HR招聘系统、合约机等子站点前端开发<br />
 3.负责内部系统维护, 包括小米统计、入职系统、EDM、乾坤子应用等<br />
 4.负责部门基础组件的编写和文档建设<br />
