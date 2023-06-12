@@ -28,10 +28,11 @@ github: https://github.com/lurruery
 业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值<br />
 主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
 ##### 内容： <br />
-1、负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
-2、通过引入mkcert，使本地https能够访问，解决接口跨域和登录异常等问题<br />
-3、开发和维护全局组件<br />
-4、跟进质量指标输出，解决sentry异常，优化用户体验
+1、参与需求评审，技术方案制定，并提供前端技术概要设计文档<br />
+2、负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
+3、通过引入mkcert，使本地https能够访问，解决接口跨域和登录异常等问题<br />
+4、开发和维护全局组件(表格、图表、下载、分享、日历等）<br />
+5、跟进质量指标输出，解决sentry异常，优化用户体验
 ##### 业绩： <br />   
 1.线下库存管理被评为2023年Q1优秀项目
 <br />
@@ -55,11 +56,12 @@ github: https://github.com/lurruery
 主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
 ##### 内容： <br />
 1、负责小米网多端业务开发（pc, m, 微信小程序, h5等），期间多次参与改版<br />
-2、负责企业购买通道、HR招聘系统、合约机等子站点前端开发<br />
-3、负责内部系统维护, 包括小米统计、入职系统、EDM、乾坤子应用等<br />
-4、负责部门基础组件的编写和文档建设<br />
-5、培养新人、促使新人更快的融入团队<br />
-6、跟进质量指标输出，解决sentry异常，优化用户体验
+2、参与多个明星商品产品站开发<br />
+3、负责企业购买通道、HR招聘系统、合约机等子站点前端开发<br />
+4、负责内部系统维护, 包括小米统计、入职系统、EDM、乾坤子应用等<br />
+5、负责部门基础组件的编写和文档建设<br />
+6、培养新人、促使新人更快的融入团队<br />
+7、跟进质量指标输出，解决sentry异常，优化用户体验
 <br />
 <br />
 #### 小米网明星商品开放购买 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 前端实习生 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012.12 － 2013-07 
@@ -67,8 +69,11 @@ github: https://github.com/lurruery
 主要技术： 原生js，css<br />
 ##### 内容： <br />
 1、高度还原设计稿，负责编写和维护抢购代码<br />
-2、前端性能优化<br />
-3、提供静态资源给运维进行预加载
+2、做好前端性能优化，保证抢购顺利<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a、压缩前端静态资源
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b、禁止js和css外链
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c、合并css图片，最小范围减小请求
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d、提供静态资源给运维进行预加载
 <br />
 <br />
 ## 教育背景
