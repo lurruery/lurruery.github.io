@@ -70,10 +70,10 @@ github: https://github.com/lurruery
 ##### 内容： <br />
 1、高度还原设计稿，负责编写和维护抢购代码<br />
 2、做好前端性能优化，保证抢购顺利<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a、压缩前端静态资源
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b、禁止js和css外链
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c、合并css图片，最小范围减小请求
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d、提供静态资源给运维进行预加载
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a、压缩前端静态资源<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b、禁止js和css外链<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c、合并css图片，最小范围减小请求<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d、提供静态资源给运维进行预加载<br />
 <br />
 <br />
 ## 教育背景
