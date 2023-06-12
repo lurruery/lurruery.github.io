@@ -38,7 +38,7 @@ github: https://github.com/lurruery
 <br />
 #### SPM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.08 - 今 
 业务介绍： SPM(super position model 超级位置模型) web端公用的一套前端埋点统计代码，用于分析统计投放，用户行为，链路转化等<br />
-主要技术： 原生js、 Webpack、ES6<br />
+主要技术： Vue、Webpack、ES6<br />
 ##### 内容： <br />
 1、应用界内主流的埋点方案，通过vue自定义指令与元素绑定, 完美解决异步加载数据丢失的问题<br />
 2、引入自定义npm私有包的形式，小程序 ，M站，PC可三端公用同一套sdk，通过@mi/mi-stat-spm/web 和 @mi/mi-stat-spm/wx来区分小程序还是web，达到小程序部分功能可单独定制，无需写大量兼容代码<br />
