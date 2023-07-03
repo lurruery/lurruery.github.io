@@ -9,10 +9,10 @@ github: https://github.com/lurruery
 9年+ web前端开发设计经验<br />
 具备独立开发高品质的PC、H5、微信小程序、SPA单页面应用能力<br />
 熟练使用ESLint、TSLint规范代码编写<br />
-熟练使用Vue2.0、Vue3.0开发项目，了解其原理，对Vuex、Vue-Router也有比较深入的认识<br />
+熟练使用Vue2.0、Vue3.0开发项目，对Vuex、Vue-Router也有比较深入的认识<br />
 熟悉Sass、Less、Stylus等css预处理器<br />
 熟悉前端工程化，了解Webpack的开发<br />
-熟练使用git、docker、nginx等工具<br />
+熟练使用git进行代码管理，了解界内常用上线部署方案，有Docker使用经验<br />
 了解qiankun微前端构架<br />
 能持续学习、跟踪行业趋势，并适时更新自己的技能
 <br />
