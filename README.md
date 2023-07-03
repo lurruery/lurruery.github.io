@@ -52,7 +52,7 @@ github: https://github.com/lurruery
 <br />
 #### 小米门户网站 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2013.07 - 今
 业务介绍： 小米新零售部门官方网站，负责售卖小米自家产品及生态链产品<br />
-主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Webpack、jshint、jscs、iconfont、webfont、jade、Sass、Less、Stylus等     
+主要技术： Vue、Vuex、Vue-router、NPM、Node、Gulp、Grunt、Webpack、jshint、jscs、iconfont、webfont、DoT、jade、Sass、Less、Stylus、html2canvas等     
 ##### 内容： <br />
 1、负责小米网多端业务开发（pc, m, 微信小程序, h5等），期间多次参与改版<br />
 2、参与多个明星商品产品站开发<br />
