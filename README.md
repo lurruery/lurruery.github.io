@@ -26,7 +26,7 @@ github: https://github.com/lurruery
 ## 项目经历
 #### 中国区BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级前端工程师 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022.10 - 今 
 业务介绍： 中国区智能商业管理系统，利用大数据分析、现代数据仓库等技术收集企业最新数据、形成BI报表并及时为中国区新零售部门提供BI数据分析报告，实现对业务数据的深入挖掘以获取更多商业价值<br />
-主要技术： Vue3 + TS、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
+主要技术： Vue3 + TS、React、ES6、Webpack 、Vxetable 、Element-UI 、ECharts<br />
 ##### 内容： <br />
 1、参与需求评审，技术方案制定，并提供前端技术概要设计文档<br />
 2、负责线下库存管理、SKU管理、销售达成、数鲸面板、目标上传等相关业务维护和开发<br />
