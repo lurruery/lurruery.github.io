@@ -6,7 +6,7 @@ github: https://github.com/lurruery
 <br />
 <br />
 ## 个人技能
-9年+ web前端开发设计经验<br />
+10年+ web前端开发设计经验<br />
 具备独立开发高品质的PC、H5、微信小程序、SPA单页面应用能力<br />
 熟练使用ESLint、TSLint规范代码编写<br />
 熟练使用Vue2.0、Vue3.0开发项目，对Vuex、Vue-Router也有比较深入的认识<br />
